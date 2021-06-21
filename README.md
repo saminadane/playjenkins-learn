@@ -1,2 +1,2 @@
-# playjenkins-learn
-playjenkins
+# playjenkins
+Jenkins Playground
